@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Online Clothing Store</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <h1>Tai DripSA</h1>
+        <nav>
+    <a href="#home">Home</a>
+    <a href="#shop">Shop</a>
+    <a href="#about">About</a>
+    <a href="#contact">Contact</a>
+        </nav>
+    </header>
+
+    <section class="hero" id="home">
+        <h2>Level up your style</h2>
+        <p>Fresh streetwear for every vibe</p>
+        <button>Shop Now</button>
+    </section>
+
+    <section class="products" id="shop">
+    <h2>Test Products</h2>
+
+    <div class="product-grid">
+
+    <div class="card">
+        <img src="images/hoodie.jpg" alt="Hoodie">
+        <h3>Hoodie</h3>
+        <p>R299</p>
+        <button onclick="addToCart('Hoodie')">Add to Cart</button>
+    </div>
+
+    <div class="card">
+        <img src="images/tshirt.jpg" alt="T-Shirt">
+        <h3>tshirt</h3>
+        <p>R149</p>
+        <button onclick="addToCart('T-Shirt')">Add to Cart</button>
+    </div>
+
+    <div class="card">
+        <img src="images/joggers.jpg" alt="Joggers">
+        <h3>joggers</h3>
+        <p>R249</p>
+        <button onclick="addToCart('Joggers')">Add to Cart</button>
+    </div>
+</section>
+   
+<section class="about">
+    <h2>About Us</h2>
+    <p>
+        Tai DripSA is a modern online clothing store focused on stylish and affordable streetwear.
+        We aim to provide quality outfits that help our customers express themselves with confidence.
+    </p>
+</section>
+
+<section class="contact" id="contact">
+    <h2>Contact Us</h2>
+    <p>Email: taidripsa@gmail.com</p>
+    <p>Phone: 069 221 5337</p>
+</section>
+
+    <footer>
+        <p>© 2026 Tai DripSA</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
