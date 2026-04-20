@@ -1,5 +1,14 @@
 # TAIDR Online Clothing Store
 
+# WEBSITE PROJECT PROPOSAL  
+## TAIDR Streetwear Brand Website  
+
+**Subject Name & Code:** Web Development (WD101)  
+**Full Name:** [lethabo]
+**Student Number:** [st10514103]  
+**Group:** [Gr.1]  
+**Date:** [20 april 2026]
+
 ## Project Overview
 TAIDR is an online clothing store website developed as part of a project. The website showcases a modern streetwear brand with a focus on clean design, product display, and user-friendly navigation.
 
@@ -26,6 +35,17 @@ The following diagram shows the structure of the website:
 - style.css
 - script.js
 - images/
+
+## Timeline & Milestones  
+
+| Week | Task |
+|------|------|
+| Week 1 | Research, planning, and defining brand identity |
+| Week 2 | Creating sitemap and wireframes |
+| Week 3 | Developing website structure (HTML & CSS) |
+| Week 4 | Styling, testing, and final improvements |
+
+---
 
 ## 🔗 GitHub Repository
 https://github.com/Taiman101/online-clothing-store.git
