@@ -43,7 +43,6 @@ The following diagram shows the structure of the website:
 | Week 2 | Creating sitemap and wireframes |
 | Week 3 | Built homepage, shop and navigation using HTML and CSS | 
 | Week 4 | Fixed layout issues, added images, and uploaded project to GitHub Pages  
- |
 
  ## Challenges Faced  
 - Designing a responsive layout  
@@ -53,22 +52,22 @@ The following diagram shows the structure of the website:
 ---
 ##  Change Log  
 
-### v1.0 – Initial Setup  
+### 1.0 – Initial Setup  
 - Created project folder structure  
 - Set up HTML pages (Home, Shop, About, Contact)  
 - Linked CSS file  
 
-### v1.1 – Layout Development  
+### 1.1 – Layout Development  
 - Designed homepage layout  
 - Added navigation bar  
 - Started styling with CSS  
 
-### v1.2 – Content & Features  
+### 1.2 – Content & Features  
 - Added product sections on shop page  
 - Inserted images and branding  
 - Improved page structure  
 
-### v1.3 – Final Improvements  
+### 1.3 – Final Improvements  
 - Fixed responsive layout issues  
 - Improved spacing and alignment  
 - Uploaded final version to GitHub  
