@@ -1,4 +1,3 @@
-# online-clothing-store
 # TAIDR Online Clothing Store
 
 ## 📌 Project Overview
@@ -27,7 +26,6 @@ The purpose of this project is to demonstrate the development of a functional we
 - images/
 
 ## 🔗 GitHub Repository
-
-
+https://github.com/Taiman101/online-clothing-store.git
 ## 📌 Conclusion
 This project demonstrates basic web development skills and the use of GitHub for managing and storing a project online.
