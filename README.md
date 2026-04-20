@@ -13,9 +13,9 @@ The purpose of this project is to demonstrate the development of a functional we
 - Visual Studio Code
 - Git & GitHub (version control)
 ## 🗺️ Site Map
+The following diagram shows the structure of the website:
 
 ![Site Map](sitemap.png)
-##Features
 - Homepage with branding and navigation
 - Product display section
 - Simple and clean user interface
