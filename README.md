@@ -10,7 +10,7 @@
 **Date:** [20 april 2026]
 
 ## Project Overview
-TAIDR is an online clothing store website developed as part of a project. The website showcases a modern streetwear brand with a focus on clean design, product display, and user-friendly navigation.
+TAIDR is a modern streetwear clothing brand focused on clean, bold, and minimal designs. The brand targets youth culture and aims to reflect identity, creativity, and confidence through fashion.
 
 ## Purpose of the Project
 The purpose of this project is to demonstrate the development of a functional website using front-end technologies and version control systems.
