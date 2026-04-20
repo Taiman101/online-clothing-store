@@ -42,8 +42,9 @@ The following diagram shows the structure of the website:
 |------|------|
 | Week 1 | Research, planning, and defining brand identity |
 | Week 2 | Creating sitemap and wireframes |
-- **Week 3:** Built homepage, shop page, and navigation using HTML and CSS  
-- **Week 4:** Fixed layout issues, added images, and uploaded project to GitHub Pages  
+| Week 3 | Built homepage, shop and navigation using HTML and CSS | 
+| Week 4 | Fixed layout issues, added images, and uploaded project to GitHub Pages  
+ | 
 
 ---
 
