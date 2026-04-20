@@ -12,7 +12,9 @@ The purpose of this project is to demonstrate the development of a functional we
 - JavaScript (interactivity)
 - Visual Studio Code
 - Git & GitHub (version control)
+## 🗺️ Site Map
 
+![Site Map](sitemap.png)
 ##Features
 - Homepage with branding and navigation
 - Product display section
